@@ -10,7 +10,7 @@ The primary objective is to implement Linear Regression from scratch (without sc
 
 * **Dataset:** 2026 Car Fuel Efficiency Dataset
 * **Source:** [DataTalksClub 2026 Cohort Repository](https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/main/cohorts/2026/data/car_fuel_efficiency_2026.csv)
-* **Target Variable:** `fuel_efficiency_mpg` (miles per gallon)
+* **Target Variable:** `fuel_efficiency_mpg`
 * **Features Selected:**
   * `engine_displacement`
   * `horsepower`
